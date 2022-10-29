@@ -1,4 +1,4 @@
-# blobEffect
+# Lava lamp Effect
 💻 - Glow blob/bubble effect. 
 
 ✅ Link GitHub Pages -> preview:  https://joni92.github.io/blobEffect/
